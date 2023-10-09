@@ -1,1 +1,1 @@
-
+while(path[dlen]=='/') ++ dlen;
