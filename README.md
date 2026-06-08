@@ -1,2 +1,4 @@
 This project investigates syntactic redundancy in Python source code by analyzing coding patterns across a large collection of open-source GitHub repositories. The goal is to identify recurring code structures and evaluate the uniqueness of projects based on their level of syntactic redundancy.
-Conducted under the supervision of Dr. Amin Alipour and Aftab Hussain (Ph.D. Student) as part of a collaborative research project.
+
+
+Project Team: Conducted under the supervision of Dr. Amin Alipour and Aftab Hussain (Ph.D. Student) as part of a collaborative research project.
